@@ -10,6 +10,7 @@ int main() {
 	};
 	int arrSize = 5;
 
+	//same code for array size 10 * 10
 	for (int i = 0; i < arrSize; i++) {
 		for (int j = 0; j < arrSize; j++) {
 			printf("%d ", array[i][j]);
